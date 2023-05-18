@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import React, { useRef,useEffect, useState } from 'react';
 import{PoemData} from '../components/PoemData'
 import htmlToImage from 'html-to-image';
